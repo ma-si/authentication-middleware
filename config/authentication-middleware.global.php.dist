@@ -1,0 +1,17 @@
+<?php
+
+return [
+    'authentication-middleware' => [
+        'identity_key' => 'identity',
+        'default_redirect_route' => 'login',
+        'success_redirect_route' => 'home',
+        'success_role_redirect_route' => [
+            'admin' => 'admin/dashboard',
+            'user' => 'home',
+        ],
+        'whitelist' => [
+            'login',
+            'logout',
+        ],
+    ],
+];
