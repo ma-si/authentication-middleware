@@ -1,4 +1,4 @@
-# Authentication Middleware [![SensioLabsInsight](https://insight.sensiolabs.com/projects/c344bb5d-9d66-4f63-b006-b4d758643904/small.png)](https://insight.sensiolabs.com/projects/c344bb5d-9d66-4f63-b006-b4d758643904)
+# Authentication Middleware [![SensioLabsInsight](https://insight.sensiolabs.com/projects/ce03b237-1090-45ed-84b0-57f34651cb79/small.png)](https://insight.sensiolabs.com/projects/ce03b237-1090-45ed-84b0-57f34651cb79)
 
 [![Build status][Master image]][Master]
 [![Coverage Status][Master coverage image]][Master coverage]
@@ -6,7 +6,7 @@
 [![Sensio][SensioLabsInsight image]][SensioLabsInsight]
 [![Packagist][Packagist image]][Packagist]
 
-[![inimum PHP Version][Minimum PHP Version image]][PHP]
+[![Minimum PHP Version][Minimum PHP Version image]][PHP]
 [![License][License image]][License]
 
 *PSR-7 Authentication Middleware.*

@@ -10,7 +10,7 @@
 namespace Aist\AuthenticationMiddleware;
 
 /**
- * The configuration provider for the Auth module
+ * The configuration provider for the Authentication Middleware
  *
  * @see https://docs.zendframework.com/zend-component-installer/
  */
